@@ -1,0 +1,165 @@
+.color{
+    background-color:#f8f5f5;
+
+}
+
+.contact,a{
+    color:#562900;
+    
+}
+
+.soc{
+    background:#562900;
+    border-radius: 50px;
+    display: inline-block;
+    /* font-size: 20px; */
+    width: 30px;
+    height: 30px;
+    padding: 8px;
+    text-align: center;
+    line-height: 5px;
+    vertical-align: middle;
+    /* box-sizing: initial; */
+}
+
+.bkg-color{
+    background-color:#562900;
+    color: white;
+    
+}
+
+.nav1{
+    float: right;
+}
+
+.main1{
+    padding-top: 39vh;
+}
+
+
+.img-fluid{
+    max-width: 100%;
+    padding-left: 15px;
+}
+
+.nav{
+    color: #562900;
+    font-family: sans-serif;
+}
+
+.nav-link{
+    font-size: large;
+    font-weight: 480;
+}
+
+.btn3{
+    border-radius: 5px;
+    height: 40px;
+    width: 110px;
+}
+.btn4{
+    color: #562900;
+    /* font-size: large; */
+    font-family: sans-serif;
+}
+/* .btn3{
+    background-color: #562900;
+    border-radius: 10px;
+} */
+
+.btn{
+    background-color:#562900;
+    height: 40px;
+    width: 210px;
+    text-align: center;
+    font-size: large;
+}
+
+.maintp{
+    color: #562900;
+    font-size: 48px;
+    font-family: sans-serif;
+    font-weight: 560;
+}
+
+.maintp1{
+    color: #562900;
+    font-family: sans-serif;
+    font-size: 34px;
+}
+
+.btn1{
+    width: 145px;
+}
+
+
+.main2{
+    background-color: #e5e5e5;
+    color: #562900;
+}
+
+.main2txt{
+    font-size: small;
+}
+
+.maintxt1{
+    font-weight: 450;
+}
+
+.main3{
+    background-color: white;
+    color: #562900;
+}
+
+
+.foot1{
+    background-color: #eeeded;
+    color: #562900;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+.qoute{
+    font-size: small;
+}
+
+
+.lady{
+    border-radius: 50%;
+    /* padding-left: 50px; */
+}
+
+
+.foot2{
+    background-color: #562900;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.top{
+    font-weight: 400;
+}
+
+.btn5{
+    background-color: #562900;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-weight: 450;
+}
+
+.long{
+    width: 350px;
+    height:45px;
+}
+
+
+
+
+
+
+
